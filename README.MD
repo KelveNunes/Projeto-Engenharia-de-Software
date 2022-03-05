@@ -1,10 +1,4 @@
 #VISÃO GERAL DO SOFTWARE:
 
-	Aplicativo Desktop para uso exclusivo da equipe da DHE (Delegacia de Homicídios e
-	Entorpecentes) da Cidade de Patos com a finalidade de organizar informações de pessoas envolvidas
-	na criminalidade da cidade de Patos para facilitar o acesso às informações pelos policiais.
-	É uma demanda solicitada, tendo em vista que as informações como fotos, vulgo e histórico
-	de ocorrências relacionadas são armazenadas separadamente em smartphones dos próprios
-	agentes e delegados e computadores da referida delegacia. Esse programa ajuda na concentração das
-	informações facilitando o registro e consultas.
-
+A aplicação para desktop proporcionará o gerenciamento de dados de uma DHE, ou seja, uma delegacia que investiga crimes e trabalha com informações sobre indivíduos envolvidos na criminalidade. 
+Nesse contexto é aí que a nossa aplicação entra, ele tem a finalidade de organizar informações de pessoas envolvidas na criminalidade da cidade, para facilitar o acesso às informações pelos policiais. Essa aplicação ajudará na concentração das informações facilitando o registro e consultas, tendo em vista que informações como dados pessoais, fotos e históricos de ocorrências são armazenadas separadamente nos smartphones pessoais dos policiais e nos computadores da referida delegacia. Este programa ajudará na concentração das informações facilitando o registro, consultas e proporcionando segurança.
